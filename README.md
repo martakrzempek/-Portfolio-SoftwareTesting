@@ -24,11 +24,11 @@
 
 # My test case examples
 <br>
-<li>https://github.com/martakrzempek/Portfolio-softwareTesting</li></br>
+<li>https://github.com/martakrzempek/-Portfolio-SoftwareTesting</li></br>
 
 # My bug reports
 <br>
-<li>https://github.com/martakrzempek/Portfolio-softwareTesting</li></br>
+<li>https://github.com/martakrzempek/-Portfolio-SoftwareTesting</li></br>
 
 # Books
 <br>
