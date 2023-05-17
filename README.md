@@ -34,7 +34,7 @@
 <br>
 <li>R.Smilgin - Zawód tester</li>
 <li>K.Kaczor - Scrum i nie tylko. Teoria i praktyka w metodach Agile</li>
-<li>R.Pawlak - Testowanie oprogramowania. Podręcznik dla początkujących</li>
+<li>A. Roman, L. Stapp - Certyfikowany tester ISTQB. Poziom podstawowy</li>
 </br>
 
 # Courses
