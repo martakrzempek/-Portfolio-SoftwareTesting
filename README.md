@@ -7,8 +7,7 @@
 <br>
 <li>Postman - Testing tool for REST API</li>
 <li>Jira - Issue tracking and project management tool for developers</li>
-<li> xPath Finder - xPath finding tool
-<li> Xmind, Mind Meister - Mind mapping softwares </li>
+<li> xPath Finder - xPath finding tool</li>
 <li>draw.io - Flowchart maker and online diagram software</li></br>
 
 # Tech skills
