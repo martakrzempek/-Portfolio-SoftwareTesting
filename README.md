@@ -38,9 +38,8 @@
 
 # Courses
 <br>
-<li>[The Complete 2023 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/)</li>
-<li>W trakcie:</li>
-<li>[Automated Software Testing with Playwright](https://www.udemy.com/course/automated-software-testing-with-playwright/)</li>
+<li>[The Complete 2023 Software Testing Bootcamp] (https://www.udemy.com/course/testerbootcamp/)</li>
+<li>W trakcie: [Automated Software Testing with Playwright] (https://www.udemy.com/course/automated-software-testing-with-playwright/)</li>
 </br>
 
 # Recommended blogs
