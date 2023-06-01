@@ -33,13 +33,15 @@
 # Books
 <br>
 <li>R.Smilgin - Zawód tester</li>
-<li>K.Kaczor - Scrum i nie tylko. Teoria i praktyka w metodach Agile</li>
 <li>A. Roman, L. Stapp - Certyfikowany tester ISTQB. Poziom podstawowy</li>
 </br>
 
 # Courses
 <br>
-<li>https://www.udemy.com/course/testerbootcamp/learn/lecture/13459476?start=71#search</li></br>
+<li>[The Complete 2023 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp/)</li>
+<li>W trakcie:</li>
+<li>[Automated Software Testing with Playwright](https://www.udemy.com/course/automated-software-testing-with-playwright/)</li>
+</br>
 
 # Recommended blogs
 <br>
