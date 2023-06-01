@@ -6,7 +6,7 @@
 # Tools
 <br>
 <li>Postman - Testing tool for REST API</li>
-<li>Playwright - Automation testing tool</li></br>
+<li>Playwright - Automation testing tool</li>
 <li>Jira - Issue tracking and project management tool for developers</li>
 <li> xPath Finder - xPath finding tool</li>
 <li>Trello - Tool for creating documentation</li>
